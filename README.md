@@ -1,4 +1,4 @@
-# Jeu de Dominos and Carcassonn
+# Dominoes & Carcassonne Game Implementation
 
 ## Launch the game
 
