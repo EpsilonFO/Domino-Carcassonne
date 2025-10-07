@@ -44,8 +44,8 @@ The application offers three distinct play modes:
 
 1. **Download or clone the project**
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/EpsilonFO/Domino-Carcassonne.git
+cd Domino-Carcassonne
 ```
 
 2. **Verify the images folder exists**
@@ -289,3 +289,4 @@ Educational project - free to use and modify for learning purposes.
 ---
 
 **Enjoy the games! 🎲🎮**
+
